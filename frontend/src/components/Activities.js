@@ -5,6 +5,7 @@ import {
   FormControlLabel,
   FormControl,
   Radio,
+  Button,
 } from "@mui/material";
 import styled, { keyframes } from "styled-components";
 
@@ -24,28 +25,37 @@ const Activities = ({ locat, setChanged }) => {
       <Typography variant="h4" sx={{ fontWeight: "light" }}>
         List of Activities in <StyledSpan> {locat}</StyledSpan>{" "}
       </Typography>
-      <FormControl>
-        <RadioGroup
-          aria-labelledby="demo-radio-buttons-group-label"
-          defaultValue="female"
-          sx={{ fontWeight: "thin" }}
-          name="radio-buttons-group"
-        >
-          {activities.map((element) => {
-            return (
-              <FormControlLabel
-                value={element}
-                key={element}
-                control={<Radio />}
-                label={element}
-              />
-            );
-          })}
-        </RadioGroup>
-      </FormControl>
+      <RadioDiv>
+        <FormControl>
+          <RadioGroup
+            aria-labelledby="demo-radio-buttons-group-label"
+            defaultValue="female"
+            sx={{ fontWeight: "thin" }}
+            name="radio-buttons-group"
+          >
+            {activities.map((element) => {
+              return (
+                <FormControlLabel
+                  value={element}
+                  key={element}
+                  control={<Radio />}
+                  label={element}
+                />
+              );
+            })}
+          </RadioGroup>
+        </FormControl>
+      </RadioDiv>
+      <TextDiv>
+        <Button variant="outlined" sx={{textTransform: 'capitalize'}}>Tell me what to pack</Button>
+      </TextDiv>
     </AbsoluteDiv>
   );
 };
+
+const RadioDiv = styled.div`
+  margin-top: 30px;
+`;
 
 const fadeIn = keyframes`
  0% { opacity: 0; }
@@ -61,6 +71,13 @@ const AbsoluteDiv = styled.div`
   position: absolute;
   top: 200px;
   animation: ${fadeIn} 2s;
+`;
+
+const TextDiv = styled.div`
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 `;
 
 export default Activities;
