@@ -5,7 +5,16 @@ A web application created for the SFU Fall Hack 2022 with 'At the last minute' a
 We majorly used REACT and Python to build our web applications and gathered/built datasets for cities, actvities and items from multiple sources.
 
 ## How to Install and Run the Project
-...
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+In the project directory, you can run:
+
+```
+cd frontend  ## to navigate to the frontend directory
+npm install
+npm start
+```
 
 ## Datasets
 [cgn_canada_csv_eng.csv](https://www.nrcan.gc.ca/earth-sciences/geography/download-geographical-names-data/9245)
