@@ -11,12 +11,19 @@ import SendIcon from "@mui/icons-material/Send";
 import ExpandLess from "@mui/icons-material/ExpandLess";
 import ExpandMore from "@mui/icons-material/ExpandMore";
 import StarBorder from "@mui/icons-material/StarBorder";
+import jsonData from "../data/activities_items.json";
 
-export default function NestedList() {
-  const [open, setOpen] = React.useState(true);
+export default function NestedList({ activity }) {
+  const [open, setOpen] = React.useState(false);
+  const [openId, setOpenId] = React.useState(null);
+  const stuff = jsonData[activity];
+  console.log(stuff);
 
-  const handleClick = () => {
+  const majorThings = Object.keys(stuff);
+
+  const handleClick = (e) => {
     setOpen(!open);
+    console.log(e);
   };
 
   return (
@@ -25,35 +32,23 @@ export default function NestedList() {
       component="nav"
       aria-labelledby="nested-list-subheader"
     >
-      <ListItemButton>
-        <ListItemIcon>
-          <SendIcon />
-        </ListItemIcon>
-        <ListItemText primary="Sent mail" />
-      </ListItemButton>
-      <ListItemButton>
-        <ListItemIcon>
-          <DraftsIcon />
-        </ListItemIcon>
-        <ListItemText primary="Drafts" />
-      </ListItemButton>
-      <ListItemButton onClick={handleClick}>
-        <ListItemIcon>
-          <InboxIcon />
-        </ListItemIcon>
-        <ListItemText primary="Inbox" />
-        {open ? <ExpandLess /> : <ExpandMore />}
-      </ListItemButton>
-      <Collapse in={open} timeout="auto" unmountOnExit>
-        <List component="div" disablePadding>
-          <ListItemButton sx={{ pl: 4 }}>
-            <ListItemIcon>
-              <StarBorder />
-            </ListItemIcon>
-            <ListItemText primary="Starred" />
+      {majorThings.map((thing) => (
+        <>
+          <ListItemButton onClick={handleClick}>
+            <ListItemText primary={thing} />
+            {open ? <ExpandLess /> : <ExpandMore />}
           </ListItemButton>
-        </List>
-      </Collapse>
+          <Collapse in={open} timeout="auto" unmountOnExit>
+            <List component="div" disablePadding>
+              {stuff[thing].map((anotherthing) => (
+                <ListItemButton sx={{ pl: 4 }}>
+                  <ListItemText primary={anotherthing} />
+                </ListItemButton>
+              ))}
+            </List>
+          </Collapse>
+        </>
+      ))}
     </List>
   );
 }

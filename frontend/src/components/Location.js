@@ -8,6 +8,7 @@ import TextAnimation from "./TextAnimation";
 import Activities from "./Activities";
 import jsonData from "../data/cities_activities_spots.json";
 import Spots from "./Spots";
+import TPP from "./TTP";
 
 const Location = ({ locat, setLocat }) => {
   const cities = Object.keys(jsonData);
@@ -55,6 +56,9 @@ const Location = ({ locat, setLocat }) => {
 
       {changed == 2 && (
         <Spots setChanged={setChanged} locat={locat} activity={activity} setFinSpot={setFinSpot} />
+      )}
+      {changed == 3 && (
+        <TPP activity={activity} />
       )}
 
       <div ref={inputRef} className="autocomp">
