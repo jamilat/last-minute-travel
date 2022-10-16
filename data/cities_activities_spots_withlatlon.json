@@ -1,0 +1,1107 @@
+{
+    "Banff, Alberta": {
+        "spots": "['Bambi Picnic Vancouver', 'Burnaby Fraser Foreshore Park', 'Picnic point', 'Picnic Pavilion', 'Meunch Bar Picnic Area', 'Central Park Picnic Areas']",
+        "latitude": 51.1777778,
+        "longitude": -115.5736111
+    },
+    "Brooks, Alberta": {
+        "spots": "['Sun Peaks Resort', 'Club Intrawest', 'Big White Ski Resort', 'Purden Ski Village', 'Troll Ski Resort', 'Whitecap Alpine', 'Whistler Blackcomb', 'Dakota Ridge Ski Area']",
+        "latitude": 50.567222,
+        "longitude": -111.895
+    },
+    "Calgary, Alberta": {
+        "spots": "['Vancouver Mountain Guides', 'Ammonite Falls', 'Crown Mountain', 'Stanley Park', 'Pinecone Burke Provincial Park', 'West Lion', 'Mount Arrowsmith', 'Watersprite Lake', 'Vancouver Mountain Guides']",
+        "latitude": 51.0458333,
+        "longitude": -114.0574999
+    },
+    "Edmonton, Alberta": {
+        "spots": "['Southlands Heritage Farm', 'Copper Cayuse Outfitters', 'Valle Vista Stables', 'Leghorn Ranch Horseback Trail Rides', 'A/Z Mountain Adventures', 'Inspire horsemanship']",
+        "latitude": 53.5344445,
+        "longitude": -113.4902778
+    },
+    "Fort McMurray, Alberta": {
+        "spots": "['Bishop Creek Marine Campground', 'Dogwood Campgrounds & RV Park', 'BCRV', 'Apodaca Provincial Park', \"Raven's Nest Outdoor Group Campsite\", 'Rolley Lake Provincial Park', \"Girl Guides of Canada - Woodward's Landing Campground\", 'Fort Camping']",
+        "latitude": 56.726472,
+        "longitude": -111.380361
+    },
+    "Grande Prairie, Alberta": {
+        "spots": "['Climblife', 'SFU Climbing Wall', 'Climb Base5 (North Vancouver)', 'Climb Away']",
+        "latitude": 55.1708334,
+        "longitude": -118.7961111
+    },
+    "Jasper, Alberta": {
+        "spots": "['Sunset Beach Park', 'New Brighton Beach', 'Parkside Beach', 'Trout Lake Beach', 'Buntzen Lake North Beach', 'English Bay Beach', 'Second Beach']",
+        "latitude": 47.02076,
+        "longitude": -82.15261
+    },
+    "Lake Louise, Alberta": {
+        "spots": "['Dogwood Campgrounds & RV Park', \"Girl Guides of Canada - Woodward's Landing Campground\", 'Campertunity', 'British Columbia Lodging & Campgrounds Association', 'Fort Camping', 'Rolley Lake Provincial Park', 'Apodaca Provincial Park', 'Capilano River RV Park']",
+        "latitude": 51.4252778,
+        "longitude": -116.1805556
+    },
+    "Lethbridge, Alberta": {
+        "spots": "['Central Park Outdoor Pool', 'Kerrisdale Pool', 'Eileen Dailly Leisure Pool & Fitness Centre']",
+        "latitude": 49.6936111,
+        "longitude": -112.8419444
+    },
+    "Medicine Hat, Alberta": {
+        "spots": "['Farm Ventures', 'Inspire horsemanship']",
+        "latitude": 50.0408334,
+        "longitude": -110.6766667
+    },
+    "Red Deer, Alberta": {
+        "spots": "['Confederation Park Picnic Areas', 'Burnaby Fraser Foreshore Park', 'Hume Park', 'Central Park Picnic Areas', 'Meunch Bar Picnic Area', 'Picnic point', 'Bambi Picnic Vancouver', 'Prospect Point Picnic Area', 'Covered Area']",
+        "latitude": 52.2686111,
+        "longitude": -113.8102778
+    },
+    "Saint Albert, Alberta": {
+        "spots": "['Wet Planet Rafting and Kayaking', 'Kumsheen Rafting Resort', 'Triad River Tours', 'Outdoor Adventure Center', 'West Coast Canyoning Adventures', 'Squamish Rafting Company', 'Adams River Rafting Ltd', 'Canadian Outback Rafting']",
+        "latitude": 0.0,
+        "longitude": 0.0
+    },
+    "Barkerville, British Columbia": {
+        "spots": "['Dakota Ridge Ski Area', 'RED Mountain Resort', 'Grouse Mountain', 'SilverStar Mountain Resort']",
+        "latitude": 53.066111,
+        "longitude": -121.517222
+    },
+    "Burnaby, British Columbia": {
+        "spots": "['Burnaby Fraser Foreshore Park', 'Confederation Park Picnic Areas', 'Picnic Area', 'Jack`s Burn picnic area', 'Locarno Beach Picnic Site', 'Central Park Picnic Areas', 'Picnic point']",
+        "latitude": 46.92722,
+        "longitude": -79.41542
+    },
+    "Campbell River, British Columbia": {
+        "spots": "['Jean Beaty Park', 'Stanley Park']",
+        "latitude": 59.199167,
+        "longitude": -98.744722
+    },
+    "Chilliwack, British Columbia": {
+        "spots": "['Project Climbing Cloverdale', 'Bomber Climbing', 'Outdoor Bouldering Wall', 'The Rock Wall Climbing Gym', 'Canada West Mountain School', 'The Hive Climbing and Fitness', 'Climb Base5 (Coquitlam)']",
+        "latitude": 49.157778,
+        "longitude": -121.950833
+    },
+    "Courtenay, British Columbia": {
+        "spots": "['West Forest Trails', 'Baden Powell Trail', 'Burnaby lake', 'South Side Trail', 'Burnaby Lake Regional Park']",
+        "latitude": 49.689444,
+        "longitude": -124.995833
+    },
+    "Cranbrook, British Columbia": {
+        "spots": "['RED Mountain Resort', 'Baldy Mountain Resort', 'Mt Seymour Resort', 'Dakota Ridge Ski Area', 'SilverStar Mountain Resort', 'Sun Peaks Resort', 'Whistler Blackcomb', 'Mount Timothy Recreational Resort']",
+        "latitude": 49.508056,
+        "longitude": -115.746944
+    },
+    "Dawson Creek, British Columbia": {
+        "spots": "['Second Beach Swimming Pool', 'MacPherson Outdoor Pool', 'Kensington Park Outdoor Pool', 'Port Coquitlam Leisure Pool', 'C.G. Brown Memorial Pool', 'Vancouver Aquatic Centre', 'Stan Stronge Pool', 'Blue Mountain Wading Pool']",
+        "latitude": 51.05,
+        "longitude": -99.966667
+    },
+    "Delta, British Columbia": {
+        "spots": "['Jug Island Beach', 'Third Beach', 'Sunset Beach Park', 'Anette Beach', 'Spanish Banks Beach', 'Parkside Beach', 'Dundarave Beach', 'Spanish Banks Beach Park', 'English Bay Beach']",
+        "latitude": 44.60877,
+        "longitude": -76.12302
+    },
+    "Esquimalt, British Columbia": {
+        "spots": "['Grouse Grind Trail', 'Cheam Peak', 'Stanley Park', 'West Lion']",
+        "latitude": 48.429722,
+        "longitude": -123.414444
+    },
+    "Fort Saint James, British Columbia": {
+        "spots": "['Spanish Banks Beach Park', 'Beach denj', 'Second Beach', 'Pebbly Beach']",
+        "latitude": 0.0,
+        "longitude": 0.0
+    },
+    "Fort Saint John, British Columbia": {
+        "spots": "['Cottonwood Trail', 'South Side Trail', 'West Forest Trails']",
+        "latitude": 0.0,
+        "longitude": 0.0
+    },
+    "Hope, British Columbia": {
+        "spots": "['Picnic Area', 'Guelph Park', 'Mundy Park Picnic Shelter', 'Burnaby Fraser Foreshore Park', 'Covered Area', 'Belcarra Picnic Area', 'Hume Park', 'Picnic Area']",
+        "latitude": 48.05,
+        "longitude": -65.2
+    },
+    "Kamloops, British Columbia": {
+        "spots": "['Project Climbing Cloverdale', 'The Hive Climbing and Fitness', 'Climblife', 'The Hive Bouldering Gym', 'Project Climbing Centre', 'Climb Base5 (North Vancouver)', 'Canada West Mountain School']",
+        "latitude": 50.675833,
+        "longitude": -120.339444
+    },
+    "Kelowna, British Columbia": {
+        "spots": "['Quayside Marina', 'Cates Park Boat Ramp', 'Shelter Island Marina & Boatyard', 'Crescent Beach Marina', 'Grant Narrows Park at Pitt\u2013Addington Marsh Wildlife Management Area', 'Westminster Pier Park', 'Reed Point Marina', 'Mosquito Creek Marina']",
+        "latitude": 49.888056,
+        "longitude": -119.495556
+    },
+    "Kimberley, British Columbia": {
+        "spots": "['Crown Mountain', 'Stanley Park', 'Cabin Lake', 'Woodland Falls']",
+        "latitude": 47.8883333,
+        "longitude": -80.5958333
+    },
+    "Kitimat, British Columbia": {
+        "spots": "['Burnaby Mountain Biking and Hiking Trails', 'Willingdon Jogging Trail', 'West Forest Trails', 'Burnaby Mountain Conservation Area', 'Velodrome Trail', \"Drummond's Walk\", 'Burnaby lake', 'Cottonwood Trail']",
+        "latitude": 54.053333,
+        "longitude": -128.652222
+    },
+    "Langley, British Columbia": {
+        "spots": "['Eileen Dailly Leisure Pool & Fitness Centre', 'Vancouver Aquatic Centre', 'Renfrew Park Pool', 'Second Beach Swimming Pool', 'Stan Stronge Pool']",
+        "latitude": 49.1025,
+        "longitude": -122.658056
+    },
+    "Nanaimo, British Columbia": {
+        "spots": "['Crescent Beach Marina', 'Reed Point Marina', \"Gord's boat\", '2nd Launch boat', 'Shelter Island Marina & Boatyard', 'Coal Harbour Marina', 'Rocky Point Public Boat Launch', 'Burnaby Fraser Foreshore Park']",
+        "latitude": 49.163889,
+        "longitude": -123.938056
+    },
+    "Nelson, British Columbia": {
+        "spots": "['Grouse Mountain', 'Dakota Ridge Ski Area', 'Baldy Mountain Resort', 'Sun Peaks Resort', 'Cypress Mountain']",
+        "latitude": 43.3783334,
+        "longitude": -79.8394444
+    },
+    "New Westminster, British Columbia": {
+        "spots": "['Burnaby Lake Regional Park', 'CRAB Park', 'John Hendry Park (Trout Lake Park)', 'Cleveland Dam', 'Burnaby Fraser Foreshore Park', 'Westminster Pier Park', 'Rocky Point Park', 'Lower Pond', 'Stave River']",
+        "latitude": 49.206667,
+        "longitude": -122.910556
+    },
+    "North Vancouver, British Columbia": {
+        "spots": "['Meunch Bar Picnic Area', 'Bambi Picnic Vancouver']",
+        "latitude": 49.320556,
+        "longitude": -123.073889
+    },
+    "Oak Bay, British Columbia": {
+        "spots": "['Wet Planet Rafting and Kayaking', 'Hydra River Guides']",
+        "latitude": 45.23087,
+        "longitude": -67.19184
+    },
+    "Penticton, British Columbia": {
+        "spots": "['Northern Rockies Adventures', 'Orion River Rafting', 'Glacier Guides and Montana Raft']",
+        "latitude": 49.500833,
+        "longitude": -119.593889
+    },
+    "Powell River, British Columbia": {
+        "spots": "['Trail of Hope', 'Jug Island Trailhead', 'Burnaby Lake Regional Park', 'Baden Powell Trail']",
+        "latitude": 49.875833,
+        "longitude": -124.56
+    },
+    "Prince George, British Columbia": {
+        "spots": "['Greenheart TreeWalk', 'Sunrise Park', 'Cherry Blossom Intersection', 'Devonian Harbour Park', 'UBC Botanical Garden', 'Queen Elizabeth Park']",
+        "latitude": 53.913056,
+        "longitude": -122.745278
+    },
+    "Prince Rupert, British Columbia": {
+        "spots": "['Velodrome Trail', 'Glenbrook Ravine Trail', 'Cottonwood Trail', 'Baden Powell Trail', 'Suraci\u2019s Trail', 'Burnaby Mountain Urban Trail', 'Jug Island Trailhead', 'Trans Canada Trail']",
+        "latitude": 54.312778,
+        "longitude": -130.325278
+    },
+    "Quesnel, British Columbia": {
+        "spots": "['John Hendry Park (Trout Lake Park)', 'Alice Townley Park']",
+        "latitude": 52.979722,
+        "longitude": -122.493611
+    },
+    "Revelstoke, British Columbia": {
+        "spots": "['Cleveland Dam', 'Westminster Pier Park', 'Burnaby Lake Regional Park', 'Kanaka Creek Regional Park', 'Rocky Point Park', 'Capilano River Hatchery', 'Cabin Lake', 'John Hendry Park (Trout Lake Park)']",
+        "latitude": 50.998889,
+        "longitude": -118.195833
+    },
+    "Rossland, British Columbia": {
+        "spots": "['Gastown Steam Clock', 'Sunset Beach Park', 'Kennedy Falls', 'Prospect Point Lookout', 'VanDusen Botanical Garden']",
+        "latitude": 49.076944,
+        "longitude": -117.802222
+    },
+    "Trail, British Columbia": {
+        "spots": "['Stanley Park', 'FlyOver Canada', 'Inukshuk', 'Kennedy Falls', 'Olympic Cauldron', 'Capilano Suspension Bridge Park', 'Bloedel Conservatory']",
+        "latitude": 49.094444,
+        "longitude": -117.709167
+    },
+    "Vancouver, British Columbia": {
+        "spots": "['River Drifters - White Salmon River Rafting', 'Wet Planet Rafting and Kayaking', 'Interior Whitewater Expeditions Ltd', 'Chilliwack River Rafting', 'Adams River Rafting Ltd', 'Osprey Rafting Company', 'Alpine Adventures', 'Northern Rockies Adventures']",
+        "latitude": 49.261111,
+        "longitude": -123.113889
+    },
+    "Vernon, British Columbia": {
+        "spots": "['Confederation Park Picnic Areas', 'Picnic Area', 'Central Park Picnic Areas', 'Picnic point']",
+        "latitude": 46.5,
+        "longitude": -81.7533333
+    },
+    "Victoria, British Columbia": {
+        "spots": "['Covered Area', 'Belcarra Picnic Area', 'Jack`s Burn picnic area']",
+        "latitude": 46.500068,
+        "longitude": -60.58257
+    },
+    "West Vancouver, British Columbia": {
+        "spots": "['SFU Climbing Wall', 'Project Climbing Cloverdale', 'Coastal Climbing Centre', 'Climblife', 'Climb Away', 'Vancouver Mountain Guides', 'Project Climbing Centre']",
+        "latitude": 49.331111,
+        "longitude": -123.159722
+    },
+    "White Rock, British Columbia": {
+        "spots": "['RED Mountain Resort', 'Mt Seymour Resort', 'Club Intrawest', 'Fortress Ski Area']",
+        "latitude": 49.316667,
+        "longitude": -122.93333
+    },
+    "Brandon, Manitoba": {
+        "spots": "['Tynehead Regional Park', 'Coal Harbour Bike Rental', 'Riverview Forest Biking Trails', 'Reckless Shipyards: eBikes, Skis & More!', 'Bikes For All', 'Van City Bikes and Skis', 'Cycle City Bike Shop & Repairs', 'Great Explorations']",
+        "latitude": 49.846944,
+        "longitude": -99.952222
+    },
+    "Churchill, Manitoba": {
+        "spots": "['Quayside Marina', 'Shelter Island Marina & Boatyard', 'Reed Point Marina', 'Ambleside Park | West Vancouver']",
+        "latitude": 58.780833,
+        "longitude": -94.186944
+    },
+    "Dauphin, Manitoba": {
+        "spots": "['Lord Byng Pool & Fitness Centre', 'Wading Pool', 'Renfrew Park Pool', 'Kerrisdale Pool', 'Port Coquitlam Leisure Pool', 'City Centre Aquatic Complex', 'C.G. Brown Memorial Pool', 'Blue Mountain Wading Pool', 'Garden Grove Dr']",
+        "latitude": 51.195833,
+        "longitude": -100.0625
+    },
+    "Flin Flon, Manitoba": {
+        "spots": "['Dundarave Beach', 'Pebbly Beach', 'Sunset Beach Park', 'Beach denj', 'Kitsilano Beach Park', 'Anette Beach', 'English Bay Beach', 'Second Beach']",
+        "latitude": 54.766735,
+        "longitude": -101.867054
+    },
+    "Kildonan, Manitoba": {
+        "spots": "['2nd Launch boat', 'Crescent Beach Marina', 'Quayside Marina', 'Westminster Pier Park', 'Mosquito Creek Marina', 'Burrard Civic Marina', 'Cooper Boating']",
+        "latitude": 49.0,
+        "longitude": -125.0
+    },
+    "Saint Boniface, Manitoba": {
+        "spots": "['Burnaby Mountain Conservation Area', 'Trail of Hope', 'Cottonwood Trail', 'Burnaby Mountain Urban Trail', 'Velodrome Trail', 'Burnaby lake', 'Central Valley Greenway', 'Glenbrook Ravine Trail', 'Southshore Trail']",
+        "latitude": 0.0,
+        "longitude": 0.0
+    },
+    "Swan River, Manitoba": {
+        "spots": "['Leghorn Ranch Horseback Trail Rides', 'Farm Ventures', 'Trail Riders of the Canadian Rockies', 'Pathways on Pleasure Valley', 'Copper Cayuse Outfitters', 'Conestogo River Horseback Adventures']",
+        "latitude": 57.497453,
+        "longitude": -102.941879
+    },
+    "Thompson, Manitoba": {
+        "spots": "['Vancouver Photographer | Enjoy The Journey Studios', 'FlyOver Canada', 'Bloedel Conservatory', 'Inukshuk', 'Equinox Gallery']",
+        "latitude": 50.266667,
+        "longitude": -121.4
+    },
+    "Winnipeg, Manitoba": {
+        "spots": "['Interior Whitewater Expeditions Ltd', 'River Drifters - White Salmon River Rafting', 'Alpine Adventures', 'Wedge Rafting', 'Kumsheen Rafting Resort']",
+        "latitude": 49.884444,
+        "longitude": -97.146389
+    },
+    "York Factory, Manitoba": {
+        "spots": "['Burnaby Mountain Urban Trail', 'Burnaby Mountain Biking and Hiking Trails']",
+        "latitude": 57.001667,
+        "longitude": -92.305833
+    },
+    "Bathurst, New Brunswick": {
+        "spots": "['Ambleside Park | West Vancouver', 'Burrard Civic Marina', 'Reed Point Marina', 'Grant Narrows Park at Pitt\u2013Addington Marsh Wildlife Management Area']",
+        "latitude": 47.416667,
+        "longitude": -65.916667
+    },
+    "Caraquet, New Brunswick": {
+        "spots": "['Sun Peaks Resort', 'RED Mountain Resort', 'Club Intrawest', 'Grouse Mountain', 'Mount Cain Alpine Park', 'Mt Seymour Resort', 'Phoenix Mountain Ski Area']",
+        "latitude": 47.75,
+        "longitude": -64.916667
+    },
+    "Dalhousie, New Brunswick": {
+        "spots": "['Creekside Park', 'Stanley Park', 'Bloedel Conservatory']",
+        "latitude": 44.689433,
+        "longitude": -64.932312
+    },
+    "Fredericton, New Brunswick": {
+        "spots": "['Burnaby Lake Regional Park', 'South Side Trail', 'Central Valley Greenway', 'Burnaby Mountain Biking and Hiking Trails', 'Burnaby Mountain walking path', 'Velodrome Trail', 'Burnaby Mountain Urban Trail', 'Willingdon Jogging Trail']",
+        "latitude": 46.360635,
+        "longitude": -63.42618
+    },
+    "Miramichi, New Brunswick": {
+        "spots": "['Sun Hills Riding Centre', 'Conestogo River Horseback Adventures', 'Southlands Heritage Farm', 'Footnote Farm', 'Farm Ventures']",
+        "latitude": 46.031678,
+        "longitude": -61.31301
+    },
+    "Moncton, New Brunswick": {
+        "spots": "['West Lion', 'Pinecone Burke Provincial Park']",
+        "latitude": 46.166667,
+        "longitude": -64.833333
+    },
+    "Saint John, New Brunswick": {
+        "spots": "['Beach denj', 'Parkside Beach', 'Maple Beach', 'Ambleside Beach', 'New Brighton Beach']",
+        "latitude": 45.333333,
+        "longitude": -65.833333
+    },
+    "Argentia, Newfoundland and Labrador": {
+        "spots": "['Carousel Canada Equine Riding Centre', 'Valle Vista Stables']",
+        "latitude": 47.2980555,
+        "longitude": -53.9855556
+    },
+    "Bonavista, Newfoundland and Labrador": {
+        "spots": "['Capilano Suspension Bridge Park', 'Cheam Peak', 'Hiking trails & scenic valley views', 'Whytecliff Park | West Vancouver', 'Say Nuth Khaw Yum Provincial Park', 'Stanley Park', 'Panorama Ridge', 'Watersprite Lake']",
+        "latitude": 48.6317917,
+        "longitude": -53.1041333
+    },
+    "Channel-Port aux Basques, Newfoundland and Labrador": {
+        "spots": "['Montague Provincial Campground (K2 Park Service)', 'Discover Camping', 'Dogwood Campgrounds & RV Park', 'BCRV', \"Girl Guides of Canada - Woodward's Landing Campground\", 'Capilano River RV Park', \"Raven's Nest Outdoor Group Campsite\", 'Fort Camping', 'Seymour Group Campsite']",
+        "latitude": 47.5955806,
+        "longitude": -59.1352917
+    },
+    "Corner Brook, Newfoundland and Labrador": {
+        "spots": "['Conestogo River Horseback Adventures', 'Valle Vista Stables']",
+        "latitude": 48.941111,
+        "longitude": -57.970278
+    },
+    "Ferryland, Newfoundland and Labrador": {
+        "spots": "['Burnaby Mountain Bike Skills Facility', 'Great Explorations', 'Bikes For All', 'Union Street Cycle', 'Bert Flinn Park', 'Riverview Forest Biking Trails']",
+        "latitude": 47.0302389,
+        "longitude": -52.9056278
+    },
+    "Gander, Newfoundland and Labrador": {
+        "spots": "['2nd Launch boat', 'Coal Harbour Marina', 'Quayside Marina', 'Ambleside Park | West Vancouver', 'Granville Island Boat Rentals', 'Grant Narrows Park at Pitt\u2013Addington Marsh Wildlife Management Area', 'Reed Point Marina', 'Crescent Beach Marina']",
+        "latitude": 48.957189,
+        "longitude": -54.588561
+    },
+    "Grand Falls\u2013Windsor, Newfoundland and Labrador": {
+        "spots": "['Glenbrook Ravine Trail', 'Trail of Hope']",
+        "latitude": 0.0,
+        "longitude": 0.0
+    },
+    "Happy Valley\u2013Goose Bay, Newfoundland and Labrador": {
+        "spots": "['Pebbly Beach', 'Spanish Banks Beach', 'Third Beach', 'Kitsilano Beach Park', 'White Pine Beach', 'Jug Island Beach', 'Anette Beach', 'New Brighton Beach', 'Locarno Beach']",
+        "latitude": 0.0,
+        "longitude": 0.0
+    },
+    "Harbour Grace, Newfoundland and Labrador": {
+        "spots": "['Cherry Blossom Intersection', 'Cherry Blossom Garden', 'Devonian Harbour Park', 'Mount Pleasant Park', 'Queen Elizabeth Park', 'Prince Edward Park', 'Salsbury Park', 'Stanley Park']",
+        "latitude": 47.6796861,
+        "longitude": -53.2535888
+    },
+    "Labrador City, Newfoundland and Labrador": {
+        "spots": "['Southlands Heritage Farm', 'Copper Cayuse Outfitters', 'Inspire horsemanship', 'North Shore Equestrian Centre']",
+        "latitude": 52.9605694,
+        "longitude": -66.9365973
+    },
+    "Placentia, Newfoundland and Labrador": {
+        "spots": "['Interior Whitewater Expeditions Ltd', 'Hydra River Guides', 'Squamish Rafting Company', 'Alpine Adventures']",
+        "latitude": 47.2705222,
+        "longitude": -53.9050916
+    },
+    "Saint Anthony, Newfoundland and Labrador": {
+        "spots": "['Muskrat Meadow Outdoor Group Campsite', 'Seymour Group Campsite', \"Girl Guides of Canada - Woodward's Landing Campground\"]",
+        "latitude": 0.0,
+        "longitude": 0.0
+    },
+    "St. John's, Newfoundland and Labrador": {
+        "spots": "['Yes Cycle Bike Rental', 'Cycle City Bike Shop & Repairs', 'Bikes For All', 'Burnaby Mountain Bike Skills Facility', \"Cap's Bicycle Shop\"]",
+        "latitude": 47.482197,
+        "longitude": -52.797069
+    },
+    "Wabana, Newfoundland and Labrador": {
+        "spots": "['Buntzen Lake North Beach', 'Sunset Beach Park', 'Ambleside Beach', 'Parkside Beach']",
+        "latitude": 47.6394722,
+        "longitude": -52.9476666
+    },
+    "Fort Smith, Northwest Territories": {
+        "spots": "['Picnic Pavilion', 'Picnic Area', 'Meunch Bar Picnic Area', 'Burnaby Fraser Foreshore Park', 'Burnaby Fraser Foreshore Park Picnic Areas', 'Guelph Park', 'Jack`s Burn picnic area']",
+        "latitude": 60.0053,
+        "longitude": -111.8829
+    },
+    "Hay River, Northwest Territories": {
+        "spots": "['Cherry Blossom Avenue', 'Salsbury Park']",
+        "latitude": 52.445,
+        "longitude": -100.81583
+    },
+    "Inuvik, Northwest Territories": {
+        "spots": "['Mosquito Creek Marina', 'Bayshore West Marina', 'Heather Civic Marina', 'Crescent Beach Marina', 'Cooper Boating']",
+        "latitude": 68.3609,
+        "longitude": -133.7297
+    },
+    "Tuktoyaktuk, Northwest Territories": {
+        "spots": "[\"Gord's boat\", 'Crescent Beach Marina', 'Westminster Pier Park', 'Mosquito Creek Marina', 'Granville Island Boat Rentals', 'Coal Harbour Marina', 'Quayside Marina']",
+        "latitude": 69.4509,
+        "longitude": -133.0358
+    },
+    "Yellowknife, Northwest Territories": {
+        "spots": "['Wildcoast Adventures', 'Grant Narrows Park at Pitt\u2013Addington Marsh Wildlife Management Area', 'Say Nuth Khaw Yum Provincial Park', 'Pedals & Paddles', 'Bowron Lake Provincial Park', 'Whytecliff Park | West Vancouver', 'North Island Kayak', 'Gulf Island Kayaking']",
+        "latitude": 62.4536,
+        "longitude": -114.37
+    },
+    "Baddeck, Nova Scotia": {
+        "spots": "['South Side Trail', 'Velodrome Trail', 'Suraci\u2019s Trail', 'Glenbrook Ravine Trail', \"Drummond's Walk\", 'Burnaby Mountain Conservation Area']",
+        "latitude": 46.100104,
+        "longitude": -60.753744
+    },
+    "Digby, Nova Scotia": {
+        "spots": "['Parkside Beach', 'English Bay Beach', 'Dundarave Beach', 'Second Beach']",
+        "latitude": 44.620795,
+        "longitude": -65.758442
+    },
+    "Glace Bay, Nova Scotia": {
+        "spots": "['Bert Flinn Park', \"Cap's Bicycle Shop\"]",
+        "latitude": 46.200668,
+        "longitude": -59.947256
+    },
+    "Halifax, Nova Scotia": {
+        "spots": "['Boundary Ranch', 'A/Z Mountain Adventures']",
+        "latitude": 44.647401,
+        "longitude": -63.590651
+    },
+    "Liverpool, Nova Scotia": {
+        "spots": "['Pacific Riding for Developing Abilities', 'Trail Riders of the Canadian Rockies']",
+        "latitude": 43.8408333,
+        "longitude": -79.0877777
+    },
+    "Louisbourg, Nova Scotia": {
+        "spots": "['Mt Thom Park', 'Ammonite Falls']",
+        "latitude": 45.919865,
+        "longitude": -59.972807
+    },
+    "Lunenburg, Nova Scotia": {
+        "spots": "['Cherry Blossom Intersection', 'Nikkei National Museum & Cultural Centre', 'Queen Elizabeth Park']",
+        "latitude": 45.0519445,
+        "longitude": -74.9527778
+    },
+    "Pictou, Nova Scotia": {
+        "spots": "['Whytecliff Park | West Vancouver', 'Lower Pond', 'Fishing dock']",
+        "latitude": 45.500074,
+        "longitude": -62.582644
+    },
+    "Port Hawkesbury, Nova Scotia": {
+        "spots": "['Vancouver Aquatic Centre', 'Garden Grove Dr', 'Central Park Outdoor Pool', 'Blue Mountain Wading Pool', 'Wading Pool', 'Stan Stronge Pool']",
+        "latitude": 45.616462,
+        "longitude": -61.356262
+    },
+    "Springhill, Nova Scotia": {
+        "spots": "['Fishing dock', 'Lower Pond']",
+        "latitude": 50.288056,
+        "longitude": -99.583056
+    },
+    "Sydney, Nova Scotia": {
+        "spots": "['Adams River Rafting Ltd', 'West Coast Canyoning Adventures']",
+        "latitude": 46.137925,
+        "longitude": -60.195727
+    },
+    "Yarmouth, Nova Scotia": {
+        "spots": "['Northern Rockies Adventures', 'Kumsheen Rafting Resort', 'Wet Planet Rafting and Kayaking', 'Glacier Guides and Montana Raft', 'West Coast Canyoning Adventures', 'Wedge Rafting', 'Canadian Outback Rafting']",
+        "latitude": 42.7552778,
+        "longitude": -81.1222222
+    },
+    "Iqaluit, Nunavut": {
+        "spots": "['Mundy Park Picnic Shelter', 'Burnaby Fraser Foreshore Park', 'Jack`s Burn picnic area', 'Burnaby Fraser Foreshore Park Picnic Areas', 'Confederation Park Picnic Areas', 'Prospect Point Picnic Area', 'Picnic Pavilion', 'Belcarra Picnic Area', 'Bambi Picnic Vancouver']",
+        "latitude": 71.956155,
+        "longitude": -79.137313
+    },
+    "Bancroft, Ontario": {
+        "spots": "['Trail of Hope', 'Central Valley Greenway', 'West Forest Trails', 'Southshore Trail', 'Burnaby Mountain Conservation Area']",
+        "latitude": 45.055,
+        "longitude": -77.7577778
+    },
+    "Barrie, Ontario": {
+        "spots": "['Burnaby Lake Regional Park', 'Westminster Pier Park', 'Lost Lagoon, Stanley Park', 'Rolley Lake Provincial Park', 'Kanaka Creek Regional Park', 'Fishing dock', 'Fraser Fishing Adventures', 'Rocky Point Park']",
+        "latitude": 44.88925,
+        "longitude": -77.12069
+    },
+    "Belleville, Ontario": {
+        "spots": "['The Hive Heights', 'Bomber Climbing', 'Canada West Mountain School', 'Coastal Climbing Centre', 'Project Climbing Centre', 'The Hive Bouldering Gym', 'The Hive Climbing and Fitness', 'Climb Base5 (North Vancouver)', 'Vancouver Climbers Association']",
+        "latitude": 43.855371,
+        "longitude": -65.923957
+    },
+    "Brampton, Ontario": {
+        "spots": "['Central Park Picnic Areas', 'Meunch Bar Picnic Area', 'Bambi Picnic Vancouver', 'Barnet Marine Park Picnic Areas']",
+        "latitude": 43.6883334,
+        "longitude": -79.7608333
+    },
+    "Brantford, Ontario": {
+        "spots": "['Campnab', 'Bishop Creek Marine Campground', 'Muskrat Meadow Outdoor Group Campsite', 'Klahanie Campground', 'Porteau Cove Campground', 'Anmore Camp & RV Park', 'Rolley Lake Provincial Park', 'Dogwood Campgrounds & RV Park']",
+        "latitude": 43.1449,
+        "longitude": -80.30072
+    },
+    "Brockville, Ontario": {
+        "spots": "['Kumsheen Rafting Resort', 'Northern Rockies Adventures', 'Chilliwack River Rafting', 'Wet Planet Rafting and Kayaking', 'Osprey Rafting Company', 'Interior Whitewater Expeditions Ltd', 'West Coast Canyoning Adventures', 'Outdoor Adventure Center', 'Orion River Rafting']",
+        "latitude": 44.59733,
+        "longitude": -75.6855
+    },
+    "Burlington, Ontario": {
+        "spots": "['Stan Stronge Pool', 'Eileen Dailly Leisure Pool & Fitness Centre', 'Blue Mountain Wading Pool']",
+        "latitude": 46.485384,
+        "longitude": -63.603239
+    },
+    "Cambridge, Ontario": {
+        "spots": "['Northshore Kayaking', 'Talaysay Tours', 'Tofino Sea Kayaking', 'Kanaka Creek Regional Park', 'Wildcoast Adventures', 'Northern Rockies Adventures', 'Gulf Island Kayaking', 'Seaward Kayaks']",
+        "latitude": 43.397222,
+        "longitude": -80.311389
+    },
+    "Chatham, Ontario": {
+        "spots": "['Cherry Blossom Garden', 'Minoru Park', 'Salsbury Park', 'Greenheart TreeWalk', 'Stanley Park', 'Prince Edward Park', 'Nikkei National Museum & Cultural Centre']",
+        "latitude": 42.39989,
+        "longitude": -82.18984
+    },
+    "Chatham-Kent, Ontario": {
+        "spots": "['West Coast Canyoning Adventures', 'Squamish Rafting Company', 'Osprey Rafting Company', 'Outdoor Adventure Center', 'Kumsheen Rafting Resort', 'Orion River Rafting', 'Wet Planet Rafting and Kayaking', 'Hydra River Guides']",
+        "latitude": 42.43396,
+        "longitude": -82.12876
+    },
+    "Cornwall, Ontario": {
+        "spots": "['Skyview Outdoors', 'Kanaka Creek Regional Park', 'Pedals & Paddles', 'Whytecliff Park | West Vancouver', 'Gulf Island Kayaking', 'North Island Kayak', 'Majestic Ocean Kayaking', 'Bowron Lake Provincial Park', 'Spirit of the West Adventures']",
+        "latitude": 45.0263889,
+        "longitude": -74.7263889
+    },
+    "Elliot Lake, Ontario": {
+        "spots": "[\"Drummond's Walk\", 'Burnaby Mountain walking path', 'Central Valley Greenway', 'Burnaby Lake Regional Park', 'Trail of Hope', 'Glenbrook Ravine Trail', 'Baden Powell Trail']",
+        "latitude": 46.3811111,
+        "longitude": -82.6572222
+    },
+    "Etobicoke, Ontario": {
+        "spots": "['Bayshore West Marina', 'Heather Civic Marina', 'Ambleside Park | West Vancouver', 'Quayside Marina', '2nd Launch boat', 'BURNABY SAILING ASSOCIATION - Barnet Marine Park', 'Rocky Point Public Boat Launch', 'Mosquito Creek Marina', 'Coal Harbour Marina']",
+        "latitude": 43.64855,
+        "longitude": -79.57762
+    },
+    "Fort Erie, Ontario": {
+        "spots": "['Burnaby Fraser Foreshore Park', 'Mundy Park Picnic Shelter', 'Covered Area']",
+        "latitude": 42.92261,
+        "longitude": -79.022
+    },
+    "Fort Frances, Ontario": {
+        "spots": "['Carousel Canada Equine Riding Centre', 'Leghorn Ranch Horseback Trail Rides', 'Pacific Riding for Developing Abilities', 'Conestogo River Horseback Adventures', 'Sun Hills Riding Centre', 'Glen Valley Stables', 'Boundary Ranch', 'Inspire horsemanship']",
+        "latitude": 48.6125,
+        "longitude": -93.393889
+    },
+    "Gananoque, Ontario": {
+        "spots": "['Mount Timothy Recreational Resort', 'Sun Peaks Resort', 'Mount Cain Alpine Park', 'Baldy Mountain Resort', 'Big White Ski Resort']",
+        "latitude": 44.33212,
+        "longitude": -76.16116
+    },
+    "Guelph, Ontario": {
+        "spots": "['Interior Whitewater Expeditions Ltd', 'Hydra River Guides', 'Glacier Guides and Montana Raft', 'Outdoor Adventure Center', 'Pangaea River Rafting | Missoula Whitewater Rafting']",
+        "latitude": 43.56531,
+        "longitude": -80.28149
+    },
+    "Hamilton, Ontario": {
+        "spots": "['Picnic Area', 'Bambi Picnic Vancouver', 'Jack`s Burn picnic area', 'Burnaby Fraser Foreshore Park', 'Covered Area', 'Burnaby Fraser Foreshore Park Picnic Areas', 'Mundy Park Picnic Shelter', 'Picnic point']",
+        "latitude": 44.05734,
+        "longitude": -78.21602
+    },
+    "Iroquois Falls, Ontario": {
+        "spots": "['Mt Thom Park', 'Panorama Ridge']",
+        "latitude": 48.76373,
+        "longitude": -80.66866
+    },
+    "Kapuskasing, Ontario": {
+        "spots": "['Whistler Blackcomb', 'Sun Peaks Resort', 'Fortress Ski Area', 'Baldy Mountain Resort', 'Whistler Blackcomb', 'Whitecap Alpine', 'Phoenix Mountain Ski Area', 'Dakota Ridge Ski Area']",
+        "latitude": 48.51481,
+        "longitude": -82.93322
+    },
+    "Kawartha Lakes, Ontario": {
+        "spots": "['Meunch Bar Picnic Area', 'Covered Area', 'Central Park Picnic Areas']",
+        "latitude": 44.5120102,
+        "longitude": -78.5117808
+    },
+    "Kenora, Ontario": {
+        "spots": "['Vancouver Climbers Association', 'The Hive Bouldering Gym', 'SFU Climbing Wall', \"Clip 'n Climb Vancouver\", 'The Rock Wall Climbing Gym', 'The Hive Climbing and Fitness']",
+        "latitude": 49.7638889,
+        "longitude": -94.5066667
+    },
+    "Kingston, Ontario": {
+        "spots": "['Lower Pond', 'Rolley Lake Provincial Park', 'Westminster Pier Park', 'Lost Lagoon, Stanley Park', \"Lang's Fishing Adventures\", 'Burnaby Lake Regional Park', 'Silversides Fishing Adventures']",
+        "latitude": 44.987141,
+        "longitude": -64.949971
+    },
+    "Kirkland Lake, Ontario": {
+        "spots": "['Fortress Ski Area', 'SilverStar Mountain Resort', 'Dakota Ridge Ski Area', 'Revelstoke Mountain Resort', 'Purden Ski Village', 'Big White Ski Resort', 'Whistler Blackcomb', 'Mount Cain Alpine Park', 'Mount Timothy Recreational Resort']",
+        "latitude": 48.15,
+        "longitude": -80.0330556
+    },
+    "Kitchener, Ontario": {
+        "spots": "['Fraser River Park', 'Kanaka Creek Regional Park', 'Deer Lake Park', 'Stave River', 'Fishing dock', 'Capilano River Hatchery', 'Burnaby Lake Regional Park', 'John Hendry Park (Trout Lake Park)']",
+        "latitude": 49.158333,
+        "longitude": -116.33611
+    },
+    "Laurentian Hills, Ontario": {
+        "spots": "['Watersprite Lake', 'Mt Thom Park', 'Hiking trails & scenic valley views', 'Woodland Falls', 'Vancouver Mountain Guides', 'Say Nuth Khaw Yum Provincial Park', 'Mount Arrowsmith', 'Whytecliff Park | West Vancouver', 'Capilano Suspension Bridge Park']",
+        "latitude": 45.9797222,
+        "longitude": -77.5122222
+    },
+    "London, Ontario": {
+        "spots": "['Sun Peaks Resort', 'Club Intrawest', 'Whistler Blackcomb', 'Whitecap Alpine', 'Whistler Blackcomb', 'Cypress Mountain']",
+        "latitude": 42.9675,
+        "longitude": -81.2325
+    },
+    "Midland, Ontario": {
+        "spots": "['Wading Pool', 'MacPherson Outdoor Pool', 'Stan Stronge Pool']",
+        "latitude": 45.652828,
+        "longitude": -65.787094
+    },
+    "Mississauga, Ontario": {
+        "spots": "['Grant Narrows Park at Pitt\u2013Addington Marsh Wildlife Management Area', 'Vancouver Seawall', 'Whytecliff Park | West Vancouver']",
+        "latitude": 43.58566,
+        "longitude": -79.65711
+    },
+    "Moose Factory, Ontario": {
+        "spots": "['Deer Lake Park', 'ABF Charters/ Guided Sportfishing/Gibsons BC', 'Lost Lagoon, Stanley Park', 'Cabin Lake', 'Fraser River Park', 'Whytecliff Park | West Vancouver', 'Capilano River Hatchery', 'Rocky Point Park', 'John Hendry Park (Trout Lake Park)']",
+        "latitude": 51.2555245,
+        "longitude": -80.6048924
+    },
+    "Moosonee, Ontario": {
+        "spots": "['Jug Island Trailhead', 'Glenbrook Ravine Trail', 'Burnaby Mountain Biking and Hiking Trails']",
+        "latitude": 51.2736387,
+        "longitude": -80.6437654
+    },
+    "Niagara Falls, Ontario": {
+        "spots": "['Sun Hills Riding Centre', 'North Shore Equestrian Centre', 'Southlands Heritage Farm', 'Carousel Canada Equine Riding Centre', 'Leghorn Ranch Horseback Trail Rides', 'Banff Trail Riders - Stables', 'Inspire horsemanship']",
+        "latitude": 43.06012,
+        "longitude": -79.10671
+    },
+    "Niagara-on-the-Lake, Ontario": {
+        "spots": "['Glacier Guides and Montana Raft', 'Winding Waters River Expeditions', 'Interior Whitewater Expeditions Ltd']",
+        "latitude": 43.20457,
+        "longitude": -79.12806
+    },
+    "North Bay, Ontario": {
+        "spots": "['Campnab', 'Fort Camping']",
+        "latitude": 46.314444,
+        "longitude": -79.459167
+    },
+    "North York, Ontario": {
+        "spots": "['Westminster Pier Park', 'Burnaby Fraser Foreshore Park', 'Granville Island Boat Rentals', 'Ambleside Park | West Vancouver', 'Rocky Point Public Boat Launch', 'Reed Point Marina']",
+        "latitude": 43.76205,
+        "longitude": -79.41026
+    },
+    "Oakville, Ontario": {
+        "spots": "['Grouse Mountain', 'Mt Seymour Resort', 'Big White Ski Resort']",
+        "latitude": 49.929444,
+        "longitude": -98.003889
+    },
+    "Orillia, Ontario": {
+        "spots": "['Wading Pool', 'MacPherson Outdoor Pool', 'SFU Aquatic Centre', 'Blue Mountain Wading Pool', 'RONA Coquitlam (Austin)', 'Renfrew Park Pool', 'Stan Stronge Pool']",
+        "latitude": 44.71681,
+        "longitude": -79.49866
+    },
+    "Oshawa, Ontario": {
+        "spots": "['RONA Coquitlam (Austin)', 'City Centre Aquatic Complex', 'Eileen Dailly Leisure Pool & Fitness Centre', 'Kensington Park Outdoor Pool', 'MacPherson Outdoor Pool', 'Propel Swimming Lessons Burnaby', 'Killarney Pool', 'Garden Grove Dr', 'Stan Stronge Pool']",
+        "latitude": 43.9005555,
+        "longitude": -78.8572222
+    },
+    "Ottawa, Ontario": {
+        "spots": "['Carousel Canada Equine Riding Centre', 'Sun Hills Riding Centre', 'Valle Vista Stables', 'Farm Ventures', 'Southlands Heritage Farm', 'Conestogo River Horseback Adventures', 'North Shore Equestrian Centre', 'Trail Riders of the Canadian Rockies', 'Glen Valley Stables']",
+        "latitude": 45.4005555,
+        "longitude": -75.6713889
+    },
+    "Parry Sound, Ontario": {
+        "spots": "['Leghorn Ranch Horseback Trail Rides', 'Valle Vista Stables', 'Pacific Riding for Developing Abilities', 'Southlands Heritage Farm']",
+        "latitude": 45.741667,
+        "longitude": -79.871111
+    },
+    "Perth, Ontario": {
+        "spots": "['Pedals & Paddles', 'Say Nuth Khaw Yum Provincial Park', 'Banff Canoe Club', 'Seaward Kayaks', 'North Island Kayak', 'Gulf Island Kayaking', 'Kanaka Creek Regional Park', 'Creekside Kayaks at Dragon Boat BC', 'Vancouver Seawall']",
+        "latitude": 46.7167,
+        "longitude": -67.6167
+    },
+    "Peterborough, Ontario": {
+        "spots": "['Capilano River Hatchery', 'Kanaka Creek Regional Park', 'Fishing dock']",
+        "latitude": 44.56766,
+        "longitude": -78.25626
+    },
+    "Picton, Ontario": {
+        "spots": "['Bishop Creek Marine Campground', 'Fort Camping', 'Seymour Group Campsite', 'Porteau Cove Campground', 'BC Hydro Stave Falls Lodge and Campsite']",
+        "latitude": 44.0061111,
+        "longitude": -77.1436111
+    },
+    "Port Colborne, Ontario": {
+        "spots": "['Bert Flinn Park', 'Burnaby Mountain Bike Skills Facility', 'Tynehead Regional Park', \"Cap's Electric Bike Centre\", 'Cycle City Bike Shop & Repairs', 'Steed Cycles']",
+        "latitude": 42.9155556,
+        "longitude": -79.1930555
+    },
+    "Saint Catharines, Ontario": {
+        "spots": "['Mosquito Creek Marina', 'Coal Harbour Marina']",
+        "latitude": 0.0,
+        "longitude": 0.0
+    },
+    "Saint Thomas, Ontario": {
+        "spots": "['Fort Camping', 'Porteau Cove Campground', 'Rolley Lake Provincial Park', 'Klahanie Campground', 'Bishop Creek Marine Campground']",
+        "latitude": 0.0,
+        "longitude": 0.0
+    },
+    "Sarnia-Clearwater, Ontario": {
+        "spots": "['BURNABY SAILING ASSOCIATION - Barnet Marine Park', '2nd Launch boat', 'Mosquito Creek Marina', 'Cooper Boating', 'Shelter Island Marina & Boatyard', 'Quayside Marina']",
+        "latitude": 0.0,
+        "longitude": 0.0
+    },
+    "Sault Sainte Marie, Ontario": {
+        "spots": "['Central Valley Greenway', 'Burnaby Lake Regional Park', 'Suraci\u2019s Trail', 'South Side Trail', 'Jug Island Trailhead', 'Burnaby Mountain walking path']",
+        "latitude": 0.0,
+        "longitude": 0.0
+    },
+    "Scarborough, Ontario": {
+        "spots": "['Burnaby Fraser Foreshore Park', 'Lost Lagoon, Stanley Park', \"Lang's Fishing Adventures\", 'Capilano River Hatchery', 'Lower Pond', 'Whytecliff Park | West Vancouver', 'Westminster Pier Park', 'Deer Lake Park', 'Silversides Fishing Adventures']",
+        "latitude": 43.7927777,
+        "longitude": -79.2358333
+    },
+    "Simcoe, Ontario": {
+        "spots": "['Spanish Banks Beach Park', 'Anette Beach', 'Trout Lake Beach', 'Dundarave Beach', 'White Pine Beach', 'Second Beach']",
+        "latitude": 42.84186,
+        "longitude": -80.31405
+    },
+    "Stratford, Ontario": {
+        "spots": "['Spanish Banks Beach Park', 'Second Beach', 'Third Beach', 'Sunset Beach Park', 'Maple Beach', 'Jug Island Beach', 'White Pine Beach']",
+        "latitude": 45.8333333,
+        "longitude": -71.25
+    },
+    "Sudbury, Ontario": {
+        "spots": "['John Hendry Park (Trout Lake Park)', 'ABF Charters/ Guided Sportfishing/Gibsons BC', 'Whytecliff Park | West Vancouver', 'Deer Lake Park', 'Stave River', 'Fraser River Park', 'CRAB Park', 'Fishing dock']",
+        "latitude": 47.34264,
+        "longitude": -81.85689
+    },
+    "Temiskaming Shores, Ontario": {
+        "spots": "['Kennedy Falls', 'Capilano Suspension Bridge Park', 'Rocky Mountaineer Station', 'Pinecone Burke Provincial Park', 'Crown Mountain']",
+        "latitude": 47.4936111,
+        "longitude": -79.7152778
+    },
+    "Thorold, Ontario": {
+        "spots": "['Campnab', 'Dogwood Campgrounds & RV Park']",
+        "latitude": 43.0722222,
+        "longitude": -79.2233333
+    },
+    "Thunder Bay, Ontario": {
+        "spots": "['Burnaby Fraser Foreshore Park', 'Fraser River Park', 'Lower Pond', 'CRAB Park', 'Lost Lagoon, Stanley Park', 'Westminster Pier Park']",
+        "latitude": 49.57569,
+        "longitude": -88.31575
+    },
+    "Timmins, Ontario": {
+        "spots": "['Maple Beach', 'Trout Lake Beach', 'White Pine Beach', 'English Bay Beach']",
+        "latitude": 48.3205555,
+        "longitude": -80.7386111
+    },
+    "Toronto, Ontario": {
+        "spots": "['Digital Orca', 'Rocky Point Park']",
+        "latitude": 43.7417,
+        "longitude": -79.3733
+    },
+    "Trenton, Ontario": {
+        "spots": "['Majestic Ocean Kayaking', 'Kanaka Creek Regional Park']",
+        "latitude": 44.11,
+        "longitude": -77.5786111
+    },
+    "Waterloo, Ontario": {
+        "spots": "['The Hive Heights', 'Canada West Mountain School', \"Clip 'n Climb Vancouver\"]",
+        "latitude": 43.4797222,
+        "longitude": -80.5411111
+    },
+    "Welland, Ontario": {
+        "spots": "['Cherry Blossom Intersection', 'Alice Townley Park', 'Queen Elizabeth Park']",
+        "latitude": 42.99712,
+        "longitude": -79.22497
+    },
+    "West Nipissing, Ontario": {
+        "spots": "['Tofino Sea Kayaking', 'Northern Rockies Adventures', 'Creekside Kayaks at Dragon Boat BC', 'Northshore Kayaking', 'Bowron Lake Provincial Park', 'Talaysay Tours', 'Spirit of the West Adventures', 'Majestic Ocean Kayaking', 'Pedals & Paddles']",
+        "latitude": 46.4471999,
+        "longitude": -80.0414
+    },
+    "Windsor, Ontario": {
+        "spots": "['Glacier Guides and Montana Raft', 'Outdoor Adventure Center', 'Kumsheen Rafting Resort', 'Northern Rockies Adventures', 'Osprey Rafting Company', 'Hydra River Guides']",
+        "latitude": 48.955,
+        "longitude": -55.6738889
+    },
+    "Woodstock, Ontario": {
+        "spots": "['Maple Beach', 'New Brighton Beach', 'Kitsilano Beach Park', 'Beach denj', 'Trout Lake Beach', 'Anette Beach', 'Parkside Beach']",
+        "latitude": 46.083333,
+        "longitude": -67.616667
+    },
+    "York, Ontario": {
+        "spots": "['Digital Orca', 'Inukshuk', 'VanDusen Botanical Garden', 'Vancouver Photographer | Enjoy The Journey Studios']",
+        "latitude": 46.1667,
+        "longitude": -67.0
+    },
+    "Borden, Prince Edward Island": {
+        "spots": "['Whistler Blackcomb', 'Grouse Mountain', 'Grouse Mountain', 'Baldy Mountain Resort', 'Sun Peaks Resort', 'Dakota Ridge Ski Area']",
+        "latitude": 47.88823,
+        "longitude": -83.17897
+    },
+    "Cavendish, Prince Edward Island": {
+        "spots": "['Belcarra Picnic Area', 'Hume Park', 'Central Park Picnic Areas']",
+        "latitude": 50.8155556,
+        "longitude": -110.4552778
+    },
+    "Charlottetown, Prince Edward Island": {
+        "spots": "['Banff Canoe Club', 'Northern Rockies Adventures', 'Tofino Sea Kayaking', 'Seaward Kayaks', 'Creekside Kayaks at Dragon Boat BC']",
+        "latitude": 46.25,
+        "longitude": -63.133333
+    },
+    "Souris, Prince Edward Island": {
+        "spots": "['Climb Base5 (Coquitlam)', 'Vancouver Climbers Association', 'Outdoor Bouldering Wall', 'Climb Away', 'Canada West Mountain School', 'The Hive Bouldering Gym', 'Project Climbing Cloverdale']",
+        "latitude": 46.354462,
+        "longitude": -62.25164
+    },
+    "Summerside, Prince Edward Island": {
+        "spots": "['North Island Kayak', 'Creekside Kayaks at Dragon Boat BC', 'Tofino Sea Kayaking', 'Bowron Lake Provincial Park', 'Banff Canoe Club', 'Skyview Outdoors']",
+        "latitude": 46.395833,
+        "longitude": -63.788889
+    },
+    "Asbestos, Quebec": {
+        "spots": "[\"Gord's boat\", 'Reed Point Marina', 'Quayside Marina', 'Shelter Island Marina & Boatyard', 'Grant Narrows Park at Pitt\u2013Addington Marsh Wildlife Management Area', 'Ambleside Park | West Vancouver']",
+        "latitude": 45.7733333,
+        "longitude": -71.9361111
+    },
+    "Baie-Comeau, Quebec": {
+        "spots": "['Panorama Ridge', 'Ammonite Falls', 'Crown Mountain', 'Vancouver Mountain Guides', 'Say Nuth Khaw Yum Provincial Park']",
+        "latitude": 49.2166666,
+        "longitude": -68.15
+    },
+    "Beloeil, Quebec": {
+        "spots": "['Burnaby Mountain Bike Skills Facility', 'Tynehead Regional Park']",
+        "latitude": 45.5619444,
+        "longitude": -73.2072222
+    },
+    "Cap-de-la-Madeleine, Quebec": {
+        "spots": "['Digital Orca', 'Kennedy Falls', 'Canada Place', 'Museum of Archaeology & Ethnology', 'Stanley Park', 'Prospect Point Lookout', 'FlyOver Canada']",
+        "latitude": 46.3722222,
+        "longitude": -72.5166667
+    },
+    "Chambly, Quebec": {
+        "spots": "['Kerrisdale Pool', 'Eileen Dailly Leisure Pool & Fitness Centre', 'Killarney Pool', 'City Centre Aquatic Complex']",
+        "latitude": 45.4475,
+        "longitude": -73.29
+    },
+    "Charlesbourg, Quebec": {
+        "spots": "['Seaward Kayaks', 'Skyview Outdoors', 'Bowron Lake Provincial Park', 'Pedals & Paddles']",
+        "latitude": 46.8591667,
+        "longitude": -71.2633333
+    },
+    "Ch\u00e2teauguay, Quebec": {
+        "spots": "['Bayshore West Marina', 'Reed Point Marina', 'Cooper Boating', 'Heather Civic Marina', 'Coal Harbour Marina']",
+        "latitude": 45.360927,
+        "longitude": -73.75018
+    },
+    "Chibougamau, Quebec": {
+        "spots": "['Outdoor Bouldering Wall', 'Vancouver Climbers Association', 'Ground Up Climbing Centre', 'Climb Away', 'The Hive Climbing and Fitness', 'Coastal Climbing Centre']",
+        "latitude": 49.9136111,
+        "longitude": -74.3713889
+    },
+    "C\u00f4te-Saint-Luc, Quebec": {
+        "spots": "['Wildcoast Adventures', 'Bowron Lake Provincial Park', 'Majestic Ocean Kayaking', 'Northern Rockies Adventures', 'Gulf Island Kayaking', 'Spirit of the West Adventures', 'Creekside Kayaks at Dragon Boat BC', 'Banff Canoe Club']",
+        "latitude": 45.477607,
+        "longitude": -73.663488
+    },
+    "Dorval, Quebec": {
+        "spots": "['Rocky Point Park', 'Creekside Park', 'Stanley Park']",
+        "latitude": 50.7166666,
+        "longitude": -73.6833334
+    },
+    "Gasp\u00e9, Quebec": {
+        "spots": "['Farm Ventures', 'Saddle Peak Trail Rides', 'Banff Trail Riders - Stables', 'Sun Hills Riding Centre']",
+        "latitude": 48.7805556,
+        "longitude": -64.4886111
+    },
+    "Gatineau, Quebec": {
+        "spots": "['Fraser Fishing Adventures', 'Stave River', 'Fishing dock']",
+        "latitude": 45.483333,
+        "longitude": -75.65
+    },
+    "Granby, Quebec": {
+        "spots": "['SFU Aquatic Centre', 'Killarney Pool', 'Wading Pool', 'Lord Byng Pool & Fitness Centre', 'Central Park Outdoor Pool', 'Kerrisdale Pool', 'City Centre Aquatic Complex', 'MacPherson Outdoor Pool']",
+        "latitude": 45.4,
+        "longitude": -72.7333333
+    },
+    "Havre-Saint-Pierre, Quebec": {
+        "spots": "['Greenheart TreeWalk', 'Sunrise Park']",
+        "latitude": 50.245021,
+        "longitude": -63.59728
+    },
+    "Hull, Quebec": {
+        "spots": "['Trail of Hope', 'Trans Canada Trail', 'Burnaby Lake Regional Park', 'Suraci\u2019s Trail', 'Cottonwood Trail', 'Jug Island Trailhead', 'Burnaby lake', \"Drummond's Walk\"]",
+        "latitude": 45.4419444,
+        "longitude": -75.7330556
+    },
+    "Jonqui\u00e8re, Quebec": {
+        "spots": "['Templeton Park Pool', 'Blue Mountain Wading Pool', 'Vancouver Aquatic Centre', 'Kensington Park Outdoor Pool', 'Central Park Outdoor Pool', 'Kerrisdale Pool']",
+        "latitude": 48.416667,
+        "longitude": -71.245833
+    },
+    "Kuujjuaq, Quebec": {
+        "spots": "['Southshore Trail', 'Trail of Hope', \"Drummond's Walk\", 'Trans Canada Trail', 'Burnaby Mountain Conservation Area']",
+        "latitude": 58.1091667,
+        "longitude": -68.4041667
+    },
+    "La Salle, Quebec": {
+        "spots": "['Capilano River Hatchery', 'Kanaka Creek Regional Park', 'CRAB Park', 'ABF Charters/ Guided Sportfishing/Gibsons BC', 'Silversides Fishing Adventures', 'Fraser River Park', 'Lower Pond']",
+        "latitude": 47.25,
+        "longitude": -72.1666667
+    },
+    "La Tuque, Quebec": {
+        "spots": "['The Hive Climbing and Fitness', 'Climb Away', 'Project Climbing Centre', 'Vancouver Mountain Guides', 'Bomber Climbing', 'Climblife', 'The Hive Heights']",
+        "latitude": 47.433333,
+        "longitude": -72.783333
+    },
+    "Lachine, Quebec": {
+        "spots": "['West Lion', 'Rocky Mountaineer Station', 'Mt Thom Park', 'Watersprite Lake']",
+        "latitude": 45.4402778,
+        "longitude": -73.7055556
+    },
+    "Laval, Quebec": {
+        "spots": "['Blue Mountain Wading Pool', 'Vancouver Aquatic Centre', 'RONA Coquitlam (Austin)', 'Garden Grove Dr', 'Eileen Dailly Leisure Pool & Fitness Centre']",
+        "latitude": 45.583333,
+        "longitude": -73.75
+    },
+    "L\u00e9vis, Quebec": {
+        "spots": "['Lord Byng Pool & Fitness Centre', 'MacPherson Outdoor Pool']",
+        "latitude": 46.8,
+        "longitude": -71.183333
+    },
+    "Longueuil, Quebec": {
+        "spots": "['Crown Mountain', 'West Lion', 'Capilano Suspension Bridge Park', 'Stanley Park', 'Cabin Lake', 'Watersprite Lake', 'Say Nuth Khaw Yum Provincial Park', 'Cheam Peak', 'Ammonite Falls']",
+        "latitude": 45.533333,
+        "longitude": -73.516667
+    },
+    "Magog, Quebec": {
+        "spots": "['Covered Area', 'Barnet Marine Park Picnic Areas', 'Jack`s Burn picnic area', 'Locarno Beach Picnic Site', 'Hume Park', 'Picnic Pavilion', 'Bambi Picnic Vancouver']",
+        "latitude": 45.2655556,
+        "longitude": -72.1472222
+    },
+    "Matane, Quebec": {
+        "spots": "['Glacier Guides and Montana Raft', 'Pangaea River Rafting | Missoula Whitewater Rafting', 'Alpine Adventures', 'Orion River Rafting', 'Hydra River Guides', 'Chilliwack River Rafting', 'Kumsheen Rafting Resort', 'Wedge Rafting', 'Wet Planet Rafting and Kayaking']",
+        "latitude": 48.85,
+        "longitude": -67.533333
+    },
+    "Montreal, Quebec": {
+        "spots": "['Olympic Cauldron', 'VanDusen Botanical Garden']",
+        "latitude": 0.0,
+        "longitude": 0.0
+    },
+    "Montr\u00e9al-Nord, Quebec": {
+        "spots": "['Burnaby Lake Regional Park', 'Fraser Fishing Adventures', 'Capilano River Hatchery']",
+        "latitude": 45.6,
+        "longitude": -73.633333
+    },
+    "Perc\u00e9, Quebec": {
+        "spots": "['Purden Ski Village', 'Grouse Mountain', 'Grouse Mountain']",
+        "latitude": 48.5,
+        "longitude": -64.4166667
+    },
+    "Port-Cartier, Quebec": {
+        "spots": "['Sunset Beach Park', 'Second Beach']",
+        "latitude": 50.0188889,
+        "longitude": -66.8761111
+    },
+    "Quebec, Quebec": {
+        "spots": "['Climb Base5 (North Vancouver)', 'Canada West Mountain School', 'SFU Climbing Wall', 'Thompson community bouldering']",
+        "latitude": 52.0,
+        "longitude": -72.0
+    },
+    "Rimouski, Quebec": {
+        "spots": "['Porteau Cove Campground', 'Klahanie Campground', \"Girl Guides of Canada - Woodward's Landing Campground\", 'Montague Provincial Campground (K2 Park Service)', 'Rolley Lake Provincial Park', 'Muskrat Meadow Outdoor Group Campsite', 'Capilano River RV Park', 'BCRV']",
+        "latitude": 48.4502778,
+        "longitude": -68.5266667
+    },
+    "Rouyn-Noranda, Quebec": {
+        "spots": "['Kumsheen Rafting Resort', 'Northern Rockies Adventures', 'Pangaea River Rafting | Missoula Whitewater Rafting', 'Canadian Outback Rafting']",
+        "latitude": 48.2391667,
+        "longitude": -79.0163889
+    },
+    "Saguenay, Quebec": {
+        "spots": "['Mount Pleasant Park', 'John Hendry Park (Trout Lake Park)', 'UBC Botanical Garden', 'Devonian Harbour Park', 'Cherry Blossom Garden', 'Greenheart TreeWalk']",
+        "latitude": 48.428221,
+        "longitude": -71.062202
+    },
+    "Saint-Eustache, Quebec": {
+        "spots": "['Mount Arrowsmith', 'Cabin Lake', 'Ammonite Falls', 'Vancouver Mountain Guides', 'Crown Mountain', 'Kennedy Falls', 'Cheam Peak']",
+        "latitude": 45.5641667,
+        "longitude": -73.9041667
+    },
+    "Saint-Hubert, Quebec": {
+        "spots": "['Deer Lake Park', 'Fishing dock', 'Kanaka Creek Regional Park', 'Rolley Lake Provincial Park', 'Silversides Fishing Adventures']",
+        "latitude": 45.4875,
+        "longitude": -73.429167
+    },
+    "Sainte-Anne-de-Beaupr\u00e9, Quebec": {
+        "spots": "['Capilano Suspension Bridge Park', 'Kennedy Falls', 'Guelph Park', 'Bloedel Conservatory']",
+        "latitude": 47.0241667,
+        "longitude": -70.9291667
+    },
+    "Sainte-Foy, Quebec": {
+        "spots": "['HUB Cycling', 'Burnaby Mountain Bike Skills Facility', 'Tynehead Regional Park', \"Cap's Bicycle Shop\", 'Yes Cycle Bike Rental', 'Willingdon Linear Park']",
+        "latitude": 46.7694444,
+        "longitude": -71.3083333
+    },
+    "Sainte-Th\u00e9r\u00e8se, Quebec": {
+        "spots": "['Bikes For All', 'Steed Cycles', 'Reckless Shipyards: eBikes, Skis & More!', 'Coal Harbour Bike Rental', \"Cap's Electric Bike Centre\"]",
+        "latitude": 48.8716667,
+        "longitude": -68.8477778
+    },
+    "Sept-\u00celes, Quebec": {
+        "spots": "['Kennedy Falls', 'Rocky Point Park', 'Gastown Steam Clock', 'Guelph Park', 'Sunset Beach Park', 'Digital Orca', 'Olympic Cauldron', 'Lighthouse Park | West Vancouver', 'FlyOver Canada']",
+        "latitude": 50.216667,
+        "longitude": -66.383333
+    },
+    "Sherbrooke, Quebec": {
+        "spots": "['Kanaka Creek Regional Park', 'Burnaby Lake Regional Park', 'Fishing dock', 'Capilano River Hatchery']",
+        "latitude": 45.4,
+        "longitude": -71.9
+    },
+    "Sorel-Tracy, Quebec": {
+        "spots": "['Vancouver Seawall', 'Banff Canoe Club', 'Grant Narrows Park at Pitt\u2013Addington Marsh Wildlife Management Area', 'Seaward Kayaks']",
+        "latitude": 46.0436111,
+        "longitude": -73.1130556
+    },
+    "Trois-Rivi\u00e8res, Quebec": {
+        "spots": "[\"Gord's boat\", 'Reed Point Marina', 'Grant Narrows Park at Pitt\u2013Addington Marsh Wildlife Management Area', 'Mosquito Creek Marina', 'Coal Harbour Marina', '2nd Launch boat', 'Bayshore West Marina']",
+        "latitude": 46.3425,
+        "longitude": -72.545
+    },
+    "Val-d\u2019Or, Quebec": {
+        "spots": "['Lost Lagoon, Stanley Park', 'Rolley Lake Provincial Park', 'Stave River', 'Whytecliff Park | West Vancouver', 'Burnaby Fraser Foreshore Park', 'Fraser Fishing Adventures', 'John Hendry Park (Trout Lake Park)']",
+        "latitude": 0.0,
+        "longitude": 0.0
+    },
+    "Waskaganish, Quebec": {
+        "spots": "['Glen Valley Stables', 'Banff Trail Riders - Stables', 'Footnote Farm', 'Inspire horsemanship', 'Leghorn Ranch Horseback Trail Rides']",
+        "latitude": 51.2,
+        "longitude": -78.7666667
+    },
+    "Batoche, Saskatchewan": {
+        "spots": "['Rocky Point Picnic Shelter', 'Picnic Area', 'Covered Area', 'Prospect Point Picnic Area', 'Meunch Bar Picnic Area', 'Central Park Picnic Areas', 'Jack`s Burn picnic area']",
+        "latitude": 45.7752778,
+        "longitude": -71.3941667
+    },
+    "Cumberland House, Saskatchewan": {
+        "spots": "['HUB Cycling', 'Burnaby Velodrome Club']",
+        "latitude": 53.955908,
+        "longitude": -102.267639
+    },
+    "Estevan, Saskatchewan": {
+        "spots": "['Lost Lagoon, Stanley Park', 'Cabin Lake', 'Rocky Point Park', 'John Hendry Park (Trout Lake Park)', 'Silversides Fishing Adventures']",
+        "latitude": 49.1392833,
+        "longitude": -102.9859847
+    },
+    "Flin Flon, Saskatchewan": {
+        "spots": "['RONA Coquitlam (Austin)', 'C.G. Brown Memorial Pool']",
+        "latitude": 54.766735,
+        "longitude": -101.867054
+    },
+    "Moose Jaw, Saskatchewan": {
+        "spots": "['Inukshuk', 'Museum of Archaeology & Ethnology', 'Capilano Suspension Bridge Park', 'Gastown Steam Clock', 'Rocky Point Park', 'FlyOver Canada']",
+        "latitude": 50.3934194,
+        "longitude": -105.5519522
+    },
+    "Prince Albert, Saskatchewan": {
+        "spots": "['Museum of Archaeology & Ethnology', 'Kennedy Falls', 'Inukshuk']",
+        "latitude": 53.199517,
+        "longitude": -105.760094
+    },
+    "Regina, Saskatchewan": {
+        "spots": "['Burnaby Fraser Foreshore Park', 'Burnaby Fraser Foreshore Park Picnic Areas', 'Hume Park', 'Bambi Picnic Vancouver', 'Picnic Area', 'Picnic Pavilion', 'Meunch Bar Picnic Area']",
+        "latitude": 50.4548389,
+        "longitude": -104.6066083
+    },
+    "Saskatoon, Saskatchewan": {
+        "spots": "['Grouse Mountain', 'Mount Timothy Recreational Resort']",
+        "latitude": 52.13965,
+        "longitude": -106.6861833
+    },
+    "Uranium City, Saskatchewan": {
+        "spots": "['Van City Bikes and Skis', 'Coal Harbour Bike Rental', 'Velo Star Cafe']",
+        "latitude": 59.569415,
+        "longitude": -108.611429
+    },
+    "Dawson, Yukon": {
+        "spots": "['Mount Cain Alpine Park', 'Fortress Ski Area', 'Baldy Mountain Resort', 'Whistler Blackcomb']",
+        "latitude": 48.7669444,
+        "longitude": -94.5172222
+    },
+    "Watson Lake, Yukon": {
+        "spots": "['Muskrat Meadow Outdoor Group Campsite', 'Capilano River RV Park']",
+        "latitude": 47.79904,
+        "longitude": -83.83623
+    },
+    "Whitehorse, Yukon": {
+        "spots": "['Burnaby Velodrome Club', 'Bert Flinn Park', 'Tynehead Regional Park', 'HUB Cycling', \"Cap's Bicycle Shop\", 'Van City Bikes and Skis', 'Burnaby Mountain Bike Skills Facility']",
+        "latitude": 60.7242144,
+        "longitude": -135.0560981
+    }
+}
