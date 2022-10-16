@@ -1,23 +1,40 @@
-import './App.css';
+import "./App.css";
+import { useEffect, useState } from "react";
+import Location from "./components/Location";
+import styled from "styled-components";
+import { createTheme, ThemeProvider } from "@mui/material";
 
 function App() {
+  const theme = createTheme({
+    palette: {
+      primary: {
+        main: "#3f51b5",
+      },
+      secondary: {
+        main: "#3f51b5",
+      },
+    },
+  });
+
+  const [locat, setLocat] = useState(null);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ThemeProvider theme={theme}>
+      <div className="App">
+        <Container className="container">
+          {<Location locat={locat} setLocat={setLocat} />}
+        </Container>
+      </div>
+    </ThemeProvider>
   );
 }
+
+const Container = styled.div`
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+`;
 
 export default App;
