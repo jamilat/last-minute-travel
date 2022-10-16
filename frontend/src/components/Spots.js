@@ -10,13 +10,14 @@ import {
 import styled, { keyframes } from "styled-components";
 import jsonData from "../data/cities_activities_spots.json";
 
-const Activities = ({ locat, setChanged, setActivity, activity }) => {
-  const [activities, setActivities] = useState(Object.keys(jsonData[locat]));
+const Spots = ({ locat, setChanged, setActivity, activity, setFinSpot }) => {
+  const [spots, setSpots] = useState(jsonData[locat][activity]);
   const [radioInput, setRadioInput] = useState(null);
   return (
     <AbsoluteDiv>
       <Typography variant="h4" sx={{ fontWeight: "light" }}>
-        List of Activities in <StyledSpan> {locat}</StyledSpan>{" "}
+        List of Spots for <StyledSpan> {activity} </StyledSpan> in{" "}
+        <StyledSpan> {locat}</StyledSpan>{" "}
       </Typography>
       <RadioDiv>
         <FormControl>
@@ -26,7 +27,7 @@ const Activities = ({ locat, setChanged, setActivity, activity }) => {
             sx={{ fontWeight: "thin" }}
             name="radio-buttons-group"
           >
-            {activities.map((element) => {
+            {spots.map((element) => {
               return (
                 <FormControlLabel
                   value={element}
@@ -46,12 +47,12 @@ const Activities = ({ locat, setChanged, setActivity, activity }) => {
         <Button
           variant="outlined"
           onClick={() => {
-            setActivity(radioInput);
-            setChanged(2)
+            setFinSpot(radioInput);
+            setChanged(3);
           }}
           sx={{ textTransform: "capitalize", marginTop: "50px" }}
         >
-          Tell me where I can do it
+          Tell me what to pack
         </Button>
       </TextDiv>
     </AbsoluteDiv>
@@ -85,4 +86,4 @@ const TextDiv = styled.div`
   align-items: center;
 `;
 
-export default Activities;
+export default Spots;

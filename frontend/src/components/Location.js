@@ -6,13 +6,16 @@ import gsap from "gsap";
 import { useRef } from "react";
 import TextAnimation from "./TextAnimation";
 import Activities from "./Activities";
-
-const cities = ["Vancouver", "Toronto"];
+import jsonData from "../data/cities_activities_spots.json";
+import Spots from "./Spots";
 
 const Location = ({ locat, setLocat }) => {
+  const cities = Object.keys(jsonData);
   const inputRef = useRef(null);
   const [inputValue, setInputValue] = useState("");
   const [changed, setChanged] = useState(0);
+  const [activity, setActivity] = useState("");
+  const [finSpot, setFinSpot] = useState("");
   const textRef = useRef(null);
 
   useEffect(() => {
@@ -41,7 +44,18 @@ const Location = ({ locat, setLocat }) => {
     <>
       {changed == 0 && <TextAnimation ref={textRef} />}
 
-      {changed == 1 && <Activities setChanged={setChanged} locat={locat} />}
+      {changed == 1 && (
+        <Activities
+          setChanged={setChanged}
+          locat={locat}
+          activity={activity}
+          setActivity={setActivity}
+        />
+      )}
+
+      {changed == 2 && (
+        <Spots setChanged={setChanged} locat={locat} activity={activity} setFinSpot={setFinSpot} />
+      )}
 
       <div ref={inputRef} className="autocomp">
         <Autocomp
