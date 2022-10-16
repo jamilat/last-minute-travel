@@ -24,6 +24,7 @@ export default function NestedList({ activity }) {
   const handleClick = (e) => {
     setOpen(!open);
     console.log(e);
+    setOpenId(e.target.innerHTML);
   };
 
   return (
@@ -36,9 +37,9 @@ export default function NestedList({ activity }) {
         <>
           <ListItemButton onClick={handleClick}>
             <ListItemText primary={thing} />
-            {open ? <ExpandLess /> : <ExpandMore />}
+            {open && openId == thing ? <ExpandLess /> : <ExpandMore />}
           </ListItemButton>
-          <Collapse in={open} timeout="auto" unmountOnExit>
+          <Collapse in={open && openId == thing} timeout="auto" unmountOnExit>
             <List component="div" disablePadding>
               {stuff[thing].map((anotherthing) => (
                 <ListItemButton sx={{ pl: 4 }}>
