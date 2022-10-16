@@ -10,6 +10,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+Step 1
+
+Install [node.js](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+
+Step 2
+
 ```
 cd frontend  ## to navigate to the frontend directory
 npm install
